@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container-pro{
+    display: grid;
+    grid-template-columns: repeat(4,  1fr   );
+    grid-template-rows: repeat(1);
+    text-align: center;
+}
+
+.container-pro1{
+    display: grid;
+    grid-template-columns: repeat(  1fr   );
+    grid-template-rows: repeat(1);
+    text-align: center;
+}
+
+
+.carta {
+    margin: 1em;
+
+}
+
+.carta>img {
+    width: 70%;
+
+}
+
+
+h4, p, h2 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+span {
+    font-style: italic;
+}
+h5 {
+   color: aquamarine;
+   text-align: center;
+}
+h6 {
+color: aquamarine;
+}
+

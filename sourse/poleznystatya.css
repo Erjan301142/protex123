@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Michroma&display=swap');
+
+ 
+h1, h2  {
+    color: rgb(221, 255, 0);
+   text-align: center;
+}
+
+
+.dropdown {
+    text-align: center;
+   
+   
+}
+a {
+    color: aquamarine;
+}
+.image-center {
+    width: 500px;
+    height: 400px;
+    margin: m-4;
+   
+}
